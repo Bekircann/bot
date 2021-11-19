@@ -1,0 +1,56 @@
+{
+    "başvuru-ekle_822824711641628752": "895037651286114305",
+    "başvuru-log_822824711641628752": "895037773805920266",
+    "basvuruk_822824711641628752": "895038339856613477",
+    "byetkili_822824711641628752": "895038932570488892",
+    "soru1_822824711641628752": "İsim-Yaş",
+    "soru2_822824711641628752": "Dc ismin",
+    "soru3_822824711641628752": "Günde ne kadar aktifsin?",
+    "soru4_822824711641628752": "Neden yetkili olmak istiyorsun",
+    "soru5_822824711641628752": "Neden bizi seçtiniz?",
+    "sorularitamamladi_775797087606014013_822824711641628752": true,
+    "rolereactions_822824711641628752_896328148940107776": {
+        "role": "893196991390183465",
+        "emoji": "😉",
+        "text": "sa",
+        "channel": {
+            "type": "text",
+            "deleted": false,
+            "id": "893195701763309608",
+            "name": "chat",
+            "rawPosition": 0,
+            "parentID": "893195627624800307",
+            "permissionOverwrites": [
+                "822824711641628752",
+                "844148143464382475"
+            ],
+            "topic": null,
+            "nsfw": false,
+            "lastMessageID": "896328148940107776",
+            "rateLimitPerUser": 0,
+            "lastPinTimestamp": 1633367593000,
+            "guild": "822824711641628752",
+            "messages": [
+                "896328148940107776"
+            ],
+            "createdTimestamp": 1633024850074
+        },
+        "id": "Vke0fi3OhSR2IrFQwM6lUKWq",
+        "msg": "896328148940107776",
+        "url": "https://discord.com/channels/822824711641628752/893195701763309608/896328148940107776"
+    },
+    "seviyekanal822824711641628752": "895771623863492618",
+    "seviyesınır822824711641628752": "100",
+    "seviyexp822824711641628752": 3,
+    "başvuru-ekle_898855402689671178": "908444401947254854",
+    "başvuru-log_898855402689671178": "908444453902106704",
+    "basvuruk_898855402689671178": "908421508345499668",
+    "byetkili_898855402689671178": "907692671081017385",
+    "soru1_898855402689671178": "İsmin Ne ve Kaç Yaşındasın ?",
+    "soru2_898855402689671178": "Şu An Kaç Sunucuda Yetkilisin ?",
+    "soru3_898855402689671178": "Kod Bilgin Kaç % İle Cevaplayın ? [ %50 vb. ]",
+    "soru4_898855402689671178": "Sunucuda ne zamandan beridir varsın",
+    "soru5_898855402689671178": "Yetkililerin sunucudaki görevleri nedir ve Discord ID ni yaz !",
+    "sorularitamamladi_775797087606014013_898855402689671178": true,
+    "sorularitamamladi_696061560912740513_822824711641628752": true
+}
